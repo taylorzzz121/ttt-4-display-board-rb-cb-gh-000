@@ -1,4 +1,4 @@
-one = ["X", "0"]
+one = ['X', '0']
 
 def display_board(one)
   print "   "#{one[1]}"|   "#{one[0]}"|   ""
