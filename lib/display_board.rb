@@ -1,4 +1,5 @@
-def display_board()
+one = []
+def display_board(one)
   print "   ""|   ""|   ""
 -----------
    ""|   ""|   ""
@@ -6,5 +7,4 @@ def display_board()
    ""|   ""|   ""\n"
 end
 
-one = []
-display_board(one)
+
